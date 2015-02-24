@@ -1,0 +1,22 @@
+{
+  "jspm": {
+    "directories": {
+      "lib": ".",
+      "packages": "jspm_packages"
+    },
+    "dependencies": {
+      "handlebars": "github:components/handlebars.js@^3.0.0",
+      "lodash": "npm:lodash@^3.3.0",
+      "qwest": "npm:qwest@^1.5.4",
+      "text": "github:systemjs/plugin-text@^0.0.2"
+    }
+  },
+  "name": "done-demo",
+  "version": "1.0.0",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
