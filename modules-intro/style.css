@@ -1,0 +1,16 @@
+.thought {
+  width: 80%;
+  margin: 20px auto 0 auto;
+  font-family: 'Helvetica';
+  background: #ddd;
+  padding: 20px;
+}
+
+.thought pre {
+  background: #fff;
+  padding: 10px;
+}
+
+.thought code {
+  font-size: 25px;
+}
